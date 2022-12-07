@@ -8,3 +8,5 @@ MongoDB.py presents the work of queries in a MongoDB database. The execution sta
 Simulation.py shows the work of a comparative work in queries execution between CouchDB, MongoDB and CosmosDB
 
 Simulation2.py shows the work of a comparative work in queries execution between MongoDB and CosmosDB
+
+The CSV and JSON files are the data loaded in the databases. Different sizes of documents has been created, for example, data_10K contains 10 thousand of products sold
